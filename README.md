@@ -2,7 +2,7 @@
 This repository contains all codes of our thesis "Simple Contrastive Learning for Paper Submission Recommendation System."
 
 # Members
-1. Nguyễn Loc Phuc: 20110276, University of Science, VNU.
+1. Nguyen Loc Phuc: 20110276, University of Science, VNU.
 2. Nguyễn Dinh Quang Dinh: 20110149, University of Science, VNU.
 
 # Implementation descriptions
