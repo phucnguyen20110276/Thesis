@@ -12,7 +12,7 @@ This repository contains the source code of our thesis "Simple Contrastive Learn
 4. Main_TAKS.ipynb: classification using the Title + Abstract + Keywords and Aims&Scope as input data (can be used for those features that include Aims & Scope).
 
 # Datasets
-
+https://drive.google.com/drive/folders/1Z95sPAmdGOMQmFAkfgtxjjzZx1gd3fv2?usp=sharing
 
 # References
 https://github.com/hduc-le/SimCPSR
