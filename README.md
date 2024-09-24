@@ -1,4 +1,4 @@
-# SimCPSR: Simple Contrastive Learning for Paper Submission Recommendation System
+# Thesis: Simple Contrastive Learning for Paper Submission Recommendation System
 This repository contains all codes of our thesis "Simple Contrastive Learning for Paper Submission Recommendation System."
 
 # Members
