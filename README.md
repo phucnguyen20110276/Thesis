@@ -25,6 +25,6 @@ https://github.com/huggingface/transformers
 
 
 # Contact
-All questions can be sent to the instructure: Dr. Nguyen Thanh Binh (ngtbinh@hcmus.edu.vn).
+All questions can be sent to the instructor: Associate Professor Dr. Nguyen Thanh Binh (ngtbinh@hcmus.edu.vn).
 
 
